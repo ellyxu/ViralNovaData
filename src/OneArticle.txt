@@ -1,0 +1,166 @@
+url = http://www.viralnova.com/duck-named-goose/
+<p>At a small animal park, one employee always keeps an eye out for duck eggs. They try to prevent the animals from laying eggs and successfully hatching them there, as the drop-off in the pond is usually too extreme for the babies and they end up drowning. They are also killed by the other adult ducks and predators in the park. It&#8217;s just not a good place for them to be born.</p>
+<p>So when he came across a little duckling that was having trouble hatching from his shell, he knew he would have to help him. Otherwise, the little duck wouldn&#8217;t have survived the night.</p>
+
+        <style type='text/css'>
+            #gallery-1 {
+                margin: auto;
+            }
+            #gallery-1 .gallery-item {
+                float: left;
+                margin-top: 10px;
+                text-align: center;
+                width: 100%;
+            }
+            #gallery-1 img {
+                border: 2px solid #cfcfcf;
+            }
+            #gallery-1 .gallery-caption {
+                margin-left: 0;
+            }
+            #gallery-1 .imageAttr, .imageAttr a, .imageAttr a:visited, .imageAttr a:hover{
+                /* VDS change credit text style here*/
+                padding: 0;
+                color: #999;
+                font-size: 10px;
+                font-style: italic;
+                display:block;
+                text-align:left;
+                margin-top:-5px;
+            }
+
+            /* see gallery_shortcode() in wp-includes/media.php */
+        </style>
+		<div id='gallery-1' class='gallery galleryid-39069 gallery-columns-1 gallery-size-full'><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                This is Goose, right after hatching.
+                </div>
+            <div class='gallery-icon portrait'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/01-110214-Just-hatched.jpg'><img width="600" height="800" src="http://content4.viralnova.com/wp-content/uploads/2014/05/01-110214-Just-hatched.jpg" class="attachment-full" alt="This is Goose, right after hatching." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                He was abandoned by his mother. She was on the other side of the park when a passer by heard him chirping from a small hole that he had made in his shell.
+                </div>
+            <div class='gallery-icon portrait'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/02-120214-Dried-off-and-all-fluffy-.jpg'><img width="600" height="800" src="http://content4.viralnova.com/wp-content/uploads/2014/05/02-120214-Dried-off-and-all-fluffy-.jpg" class="attachment-full" alt="He was abandoned by his mother. She was on the other side of the park when a passer by heard him chirping from a small hole that he had made in his shell." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                He left the duckling for the rest of the day, but went back for him when the mother never returned. He wouldn&#8217;t have survived.
+                </div>
+            <div class='gallery-icon portrait'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/03-He-took-an-interest-in-The-Walking-Dead-I-can-tell-we-will-be-bros.jpg'><img width="600" height="800" src="http://content4.viralnova.com/wp-content/uploads/2014/05/03-He-took-an-interest-in-The-Walking-Dead-I-can-tell-we-will-be-bros.jpg" class="attachment-full" alt="He left the duckling for the rest of the day, but went back for him when the mother never returned. He wouldn&#039;t have survived." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                He helped him out of his shell, warmed him up with a heat lamp, and waited.
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/04-150214-Goose-with-our-dog-Blue.jpg'><img width="600" height="338" src="http://content4.viralnova.com/wp-content/uploads/2014/05/04-150214-Goose-with-our-dog-Blue.jpg" class="attachment-full" alt="He helped him out of his shell, warmed him up with a heat lamp, and waited." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" />
+<div style="text-align:center;">
+<div id="slot537104098_80054209443" style="width:300px;height:250px;">
+    <!-- Place your fallback code here -->
+    <noscript>
+        <iframe id="50ca29e537104098" name="50ca29e537104098" src="http://ox-d.viralnova.com/w/1.0/afr?auid=537104098&cb=80054209443" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250">
+           <a href="http://ox-d.viralnova.com/w/1.0/rc?cs=50ca29e537104098&cb=80054209443" ><img src="http://ox-d.viralnova.com/w/1.0/ai?auid=537104098&cs=50ca29e537104098&cb=80054209443" border="0" alt=""></a>
+        </iframe>
+    </noscript>
+</div>
+<script type="text/javascript">
+    var OX_ads = OX_ads || [];
+    OX_ads.push({
+        'auid':537104098,
+        'slot_id': 'slot537104098_80054209443'
+    });
+</script>
+<script type="text/javascript" src="http://ox-d.viralnova.com/w/1.0/jstag"></script>
+</div>
+<br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                The next day he was energetic.
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/05-DE6BOZB.jpg'><img width="600" height="338" src="http://content4.viralnova.com/wp-content/uploads/2014/05/05-DE6BOZB.jpg" class="attachment-full" alt="The next day he was energetic." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                Goose bonded with Blue; they loved each other almost immediately.
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/06-e77TmlS.jpg'><img width="600" height="338" src="http://content4.viralnova.com/wp-content/uploads/2014/05/06-e77TmlS.jpg" class="attachment-full" alt="Goose bonded with Blue; they loved each other almost immediately." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                He was a new, fuzzy part of the family.
+                </div>
+            <div class='gallery-icon portrait'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/07-iXimhrV.jpg'><img width="600" height="1067" src="http://content4.viralnova.com/wp-content/uploads/2014/05/07-iXimhrV.jpg" class="attachment-full" alt="He was a new, fuzzy part of the family." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                And he grew quickly!
+                </div>
+            <div class='gallery-icon portrait'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/08-220214.jpg'><img width="600" height="800" src="http://content4.viralnova.com/wp-content/uploads/2014/05/08-220214.jpg" class="attachment-full" alt="And he grew quickly!" /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" />
+<div style="text-align:center;">
+<div id="slot537104099_52767789610" style="width:300px;height:250px;">
+    <!-- Place your fallback code here -->
+    <noscript>
+        <iframe id="50ca29e537104099" name="50ca29e537104099" src="http://ox-d.viralnova.com/w/1.0/afr?auid=537104099&cb=52767789610" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250">
+           <a href="http://ox-d.viralnova.com/w/1.0/rc?cs=50ca29e537104099&cb=52767789610" ><img src="http://ox-d.viralnova.com/w/1.0/ai?auid=537104099&cs=50ca29e537104099&cb=52767789610" border="0" alt=""></a>
+        </iframe>
+    </noscript>
+</div>
+<script type="text/javascript">
+    var OX_ads = OX_ads || [];
+    OX_ads.push({
+        'auid':537104099,
+        'slot_id': 'slot537104099_52767789610'
+    });
+</script>
+<script type="text/javascript" src="http://ox-d.viralnova.com/w/1.0/jstag"></script>
+</div>
+<br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                This is Goose after just 2 months.
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/09-120414.jpg'><img width="600" height="450" src="http://content4.viralnova.com/wp-content/uploads/2014/05/09-120414.jpg" class="attachment-full" alt="This is Goose after just 2 months." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                He was a beautiful little duck (although at the time his gender was still uncertain).
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/10-Majestic-Beast.jpg'><img width="600" height="450" src="http://content4.viralnova.com/wp-content/uploads/2014/05/10-Majestic-Beast.jpg" class="attachment-full" alt="He was a beautiful little duck (although at the time his gender was still uncertain)." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                He was still friends with Blue, but the dog had to avoid his playful bites now as his beak hurt a little.
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/11-GNqWoOh.jpg'><img width="600" height="450" src="http://content4.viralnova.com/wp-content/uploads/2014/05/11-GNqWoOh.jpg" class="attachment-full" alt="He was still friends with Blue, but the dog had to avoid his playful bites now as his beak hurt a little." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                Stretching his full-grown wings.
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/12-200414.jpg'><img width="600" height="450" src="http://content4.viralnova.com/wp-content/uploads/2014/05/12-200414.jpg" class="attachment-full" alt="Stretching his full-grown wings." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                This is his adult coloring (and his &#8220;drake feather&#8221; came in, meaning he is a male).
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/13-230514.jpg'><img width="600" height="450" src="http://content4.viralnova.com/wp-content/uploads/2014/05/13-230514.jpg" class="attachment-full" alt="This is his adult coloring (and his &quot;drake feather&quot; came in, meaning he is a male)." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                He is a friendly, curious little duck.
+                </div>
+            <div class='gallery-icon landscape'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/14-D7pQ1Nq.jpg'><img width="600" height="450" src="http://content4.viralnova.com/wp-content/uploads/2014/05/14-D7pQ1Nq.jpg" class="attachment-full" alt="He is a friendly, curious little duck." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" /><div class='gallery-item'>
+                <div class='wp-caption-text gallery-caption'>
+                His daddy plans on getting him a duck friend, since now he just hangs out with the chickens.
+                </div>
+            <div class='gallery-icon portrait'>
+                <a href='http://content4.viralnova.com/wp-content/uploads/2014/05/15-E6UFaNl.jpg'><img width="600" height="800" src="http://content4.viralnova.com/wp-content/uploads/2014/05/15-E6UFaNl.jpg" class="attachment-full" alt="His daddy plans on getting him a duck friend, since now he just hangs out with the chickens." /></a></div><div class="imageAttr" ><a href="http://imgur.com/user/Oli95" target="_blank">Oli95</a></div>
+</div><br style="clear: both" />
+            <br style='clear: both;' />
+        </div>
+
+<p>In many cases, if you see a baby bird, it&#8217;s probably safer to let it be. Many people aren&#8217;t properly equipped to raise a frail little baby. Plus, sometimes the mother will come back and help her offspring. What this park employee did, though, was heroic and it&#8217;s wonderful that it worked out for him and little Goose.</p>
